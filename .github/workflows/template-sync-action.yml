@@ -2,7 +2,7 @@ name: template-sync-action
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '21 * * *'
 
 jobs:
   sync:
