@@ -2,19 +2,17 @@ name: template-sync-action
 
 on:
   schedule:
-    - cron: '25 * * *'
-
+  - cron:  "*/3 * * * *"
 jobs:
-  sync:
-
+  repo-sync:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: narrowspark/template-sync-action@v1
+      # To use this repository's private action, you must check out the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: actions-template-sync
+        uses: actions/actions-template-sync
         with:
           github_token: ${{ secrets.TEMPLATE_SYNC_SECRET }}
-          git_author_name: prisis
-          git_author_email: d.bannert@anolilab.de
-          template_repository: trustoverip/mkdocs-material
-          ref: refs/heads/main
+          source_repo_path: trustoverip/mkdocs-material
