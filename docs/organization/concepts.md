@@ -4,6 +4,7 @@ projects in the world. Besides Linux itself, the LF hosts over 240 independent p
 including the Cloud Native Computing Foundation, Automotive Grade Linux, Carrier
 Grade Linux, the R Consortium, the Node.js Foundation, and the GraphQL Foundation.
 
+![linux_logo](../images/linux_logo.png)
 ![linux_structure](../images/linux_structure.png)
 
 Secondly, the LF is already the home of two directly related peer projects:
