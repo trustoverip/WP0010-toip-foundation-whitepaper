@@ -1,5 +1,3 @@
-# The Problem with Intermediaries
-
 It is easy to spot the fundamental problem with intermediaries by looking at the ​**trust
 model​** — how trust actually flows between the parties. In the current account-based
 client-server paradigm, all trusted interactions must be mediated by a server — and all

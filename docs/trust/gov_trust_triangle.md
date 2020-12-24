@@ -1,5 +1,3 @@
-# The Governance Trust Triangle
-
 While some credentials only have a single issuer, others can be issued by many
 issuers. For example, passports are issued by hundreds of countries, and credit cards
 are issued by tens of thousands of banks and credit unions. For any credential that will

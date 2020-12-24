@@ -1,5 +1,3 @@
-# The Credential Trust Triangle
-
 The reason credentials have evolved as a universal mechanism for establishing real-world trust is the fundamental “trust triangle” illustrated below.
 
 ![ctt](../images/inperson_trust_triangle.png)

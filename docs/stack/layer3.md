@@ -1,5 +1,3 @@
-# Layer Three: Data Exchange Protocols
-
 Layers Three and Four are where ​**human trust​** is established and maintained. On the
 technical side of the stack, Layer Three is the home of the​ **verifiable credential trust
 triangle**​ discussed in Part Three. This is the layer where issuers, holders, and verifiers

@@ -1,5 +1,3 @@
-# Mission of the Trust over IP Foundation
-
 The charter of the Trust over IP Foundation is to:
 
 <p style="text-align: center;">Define a complete architecture for Internet-scale digital

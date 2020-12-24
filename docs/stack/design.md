@@ -1,5 +1,3 @@
-# The Dual Stack Design
-
 As developer communities began implementing DIDs and verifiable credentials, they
 recognized this new peer-to-peer trust model could underpin an entire layer of
 Internet-scale digital trust infrastructure. As is usually the case, their initial efforts

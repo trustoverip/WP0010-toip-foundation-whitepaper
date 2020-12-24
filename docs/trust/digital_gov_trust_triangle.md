@@ -1,5 +1,3 @@
-# Economy-Scale Digital Trust
-
 With verifiable credentials and digital wallets, we can use the same trust model—and
 mental model—as we use with physical credentials and wallets. Furthermore, we can
 use governance frameworks ​ *to adapt this model to any trust community and scale it to

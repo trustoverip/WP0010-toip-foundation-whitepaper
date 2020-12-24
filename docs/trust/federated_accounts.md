@@ -1,5 +1,3 @@
-# Federating Accounts
-
 Faced with this escalating problem, technologists unwittingly drove the next wedge into
 the trust gap by trying to swing the server hammer even harder. They created the
 “federated login”, where you could reuse the account you had with one server to login to

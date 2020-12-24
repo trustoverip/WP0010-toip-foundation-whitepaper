@@ -1,5 +1,3 @@
-# Layer Four: Application Ecosystems
-
 Layer Four is the application layer — the layer where humans interact with applications in
 order to engage in trusted interactions that serve a specific business, legal, or social
 purpose. Just as Internet-enabled applications call the TCP/IP stack to communicate

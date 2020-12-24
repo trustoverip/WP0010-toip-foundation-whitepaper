@@ -1,5 +1,3 @@
-# The Verifiable Credential Trust Triangle
-
 Thankfully the promise of digital credentials was recognized several years ago by
 pioneers at the World Wide Web Consortium (W3C). They began the effort to
 standardize the file formats and digital signatures needed. The result was ​ [the Verifiable

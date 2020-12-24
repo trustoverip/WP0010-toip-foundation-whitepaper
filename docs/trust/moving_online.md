@@ -1,5 +1,3 @@
-# Moving Online
-
 With the widespread consumer and business adoption of the Internet starting in the late
 1990s, we moved into a new era of online relationships and digital interactions. The
 following ​ [diagram from IAB Australia​](https://www.iabaustralia.com.au/iab-blog/blog-articles/entry/a-brief-history-of-digital-it-s-always-good-to-reflect) puts this journey in perspective.

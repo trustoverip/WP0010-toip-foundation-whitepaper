@@ -1,5 +1,3 @@
-# Layer Two: DIDComm Peer-to-Peer Protocol
-
 If Layer One is about the strong cryptographic​ *roots* ​ of technical trust, then Layer Two is about the ​*branches* — the digital wallets and digital agents needed to form secure,
 private peer-to-peer connections using either public DIDs (from Layer One) or​ [peer
 DIDs​](https://openssi.github.io/peer-did-method-spec/index.html). The latter are exchanged directly between the peers and never need to touch a blockchain — a significant advantage for both scalability and privacy.  

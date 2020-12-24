@@ -1,5 +1,3 @@
-# Login Accounts: The Accidental Actor
-
 Since the first computers were still the size of refrigerators, access to the “login”
 terminals worked like everything else in the real world: a door with a guard who would
 let you in after verifying the credentials you carry in your wallet. But as soon as we

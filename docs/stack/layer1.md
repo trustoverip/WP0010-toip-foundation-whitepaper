@@ -1,5 +1,3 @@
-# Layer One: Public Utilities
-
 The first two layers of the ToIP stack are designed to provide ​**technical trust**​ — the
 assurance that one machine can establish a secure, private connection with another
 machine. To do this using ​ [public key cryptography]​(https://en.wikipedia.org/wiki/Public-key_cryptography), you must be able to strongly verify the ​**public key**​ of the party you are connecting to. The [W3C Decentralized Identifier (DID) specification​](https://www.w3.org/TR/did-core/) solves this problem without using centralized​ [certificate authorities](https://en.wikipedia.org/wiki/Certificate_authority) by standardizing how you can permanently identify and verify a public key stored on a blockchain or other distributed system.  

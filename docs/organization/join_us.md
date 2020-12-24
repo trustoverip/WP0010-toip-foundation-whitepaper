@@ -1,5 +1,3 @@
-# Join Us
-
 As of our formal launch on 5 May 2020, the Trust over IP Foundation has 29 Founding
 Members—17 Steering Member and 12 Contributor Member organizations. Please visit
 our website at ​ [https://trustoverip.org/](https://trustoverip.org/​) to see the full membership list. New members are welcome at any time — whether the Steering or Associate paid levels, or at the Contributor level at no cost.  

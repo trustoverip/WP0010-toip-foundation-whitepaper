@@ -1,5 +1,3 @@
-# Back to the Future with Digital Credentials
-
 There are obvious reasons we didn’t immediately port our long-established real-world
 trust model of physical credentials to the digital world. Physical credentials are both
 relatively easy to produce (via conventional printing/stamping technology), and relatively
