@@ -12,17 +12,4 @@ Together we look forward to building the trust layer for the Internet.
 
 ![toip_logo_words](../images/toip_logo_words.png)
 
-
- <head>
- <style type ="text/css" >
-   .footer{ 
-       position: fixed;     
-       text-align: center;    
-       bottom: 0px; 
-       width: 100%;
-   }  
-</style>
-</head>
-<body>
-    <div class="footer">© 2020 Trust over IP Foundation. This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).</div>
-</body>
+<p style=" position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">© 2020 Trust over IP Foundation. This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).</p>	
