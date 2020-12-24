@@ -1,4 +1,4 @@
-In the era before digital networks—when relationships and business interactions were all managed face-to-face—we had evolved a simple, universal, decentralized mechanism for achieving trust. We used **credentials** of all kinds.
+In the era before digital networks — when relationships and business interactions were all managed face-to-face—we had evolved a simple, universal, decentralized mechanism for achieving trust. We used **credentials** of all kinds.
 
 ![creds](../images/inperson_cred.png)
 

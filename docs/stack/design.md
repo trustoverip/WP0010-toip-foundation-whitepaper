@@ -9,7 +9,7 @@ business, legal, and social acceptance. The result is the ​ **dual stack**​ 
 
 ![toip_stack_design](../images/toip_stack_design.png)
 
-Whereas early versions of the ToIP stack reflected its historical origins—technology on
-the left followed by governance on the right—real-world experience soon taught us to
+Whereas early versions of the ToIP stack reflected its historical origins — technology on
+the left followed by governance on the right — real-world experience soon taught us to
 reverse it. ​ *Governance first* . In other words, implementing ToIP-based solutions should
 begin with​ **business requirements**​, then move to ​ **policy requirements**​ transparently communicated in governance frameworks. Only then should you choose the technology components required to implement those policies.

@@ -9,6 +9,6 @@ physical credentials today. Imagine how much simpler the journey would be for a
 business owner like Sally, shown below. In step one she could obtain a digital license
 for her business. In step two she could take that credential to a bank to open a business
 bank account. In step three she can take both the business license and banking
-credential to another government agency to obtain a small-business loan—all online.
+credential to another government agency to obtain a small-business loan — all online.
 
 ![back_to_the_future](../images/back_to_the_future.png)

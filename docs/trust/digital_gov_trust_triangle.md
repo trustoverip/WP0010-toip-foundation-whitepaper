@@ -1,5 +1,5 @@
-With verifiable credentials and digital wallets, we can use the same trust model—and
-mental model—as we use with physical credentials and wallets. Furthermore, we can
+With verifiable credentials and digital wallets, we can use the same trust model — and
+mental model — as we use with physical credentials and wallets. Furthermore, we can
 use governance frameworks ​ *to adapt this model to any trust community and scale it to
 any size trust network*. ​ This ​ **digital governance trust triangle**​ is shown below.
 

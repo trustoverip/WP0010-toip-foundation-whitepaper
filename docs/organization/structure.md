@@ -12,7 +12,7 @@ interoperability testing requirements for the ToIP Technology Stack.
 2. The​ **Governance Stack Working Group**​ will define the models, templates,
 guidelines, and recommended best practices for the ToIP Governance Stack.
 3. The **Utility Foundry Working Group**​ is a community of practice for governance
-authorities implementing ToIP Layer One public utilities—whether as LF projects
+authorities implementing ToIP Layer One public utilities — whether as LF projects
 or as external governance organizations in any jurisdiction.
 4. The **Ecosystem Foundry Working Group**​ is a community of practice for
 governance authorities seeking guidance and support in implementing ToIP

@@ -1,7 +1,7 @@
 The best-known example of governance trust triangles are credentials issued by
 national governments following their own laws and regulations. Many (but not all)
 countries issue national citizen ID cards, and almost every country in the world issues
-passports under the ​ [ISO/IEC 7810]​(https://en.wikipedia.org/wiki/ISO/IEC_7810) ID-3 standard.
+passports under the ​ [ISO/IEC 7810](https://en.wikipedia.org/wiki/ISO/IEC_7810) ID-3 standard.
 
 ![example_gov_credentials](../images/example_gov_credentials.png)
 
