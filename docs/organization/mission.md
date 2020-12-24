@@ -2,9 +2,9 @@
 
 The charter of the Trust over IP Foundation is to:
 
-> Define a complete architecture for Internet-scale digital
-> trust that combines cryptographic trust at the machine layer
-> with human trust at the business, legal, and social layers.  
+<p style="text-align: center;">Define a complete architecture for Internet-scale digital
+trust that combines cryptographic trust at the machine layer
+with human trust at the business, legal, and social layers. </p> 
 
 Note that this mission is not to develop all of the standards or components included in
 the ToIP stack — rather it is to specify how these elements can be combined to fulfill the
