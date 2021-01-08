@@ -1,8 +1,8 @@
-In the era before digital networks—when relationships and business interactions were all managed face-to-face—we had evolved a simple, universal, decentralized mechanism for achieving trust. We used credentials of all kinds.
+In the era before digital networks — when relationships and business interactions were all managed face-to-face—we had evolved a simple, universal, decentralized mechanism for achieving trust. We used **credentials** of all kinds.
 
 ![creds](../images/inperson_cred.png)
 
-Note that by “credentials” we don’t just mean the pieces of paper or plastic that you carry around in your wallet to prove your identity, for example, driving licenses, government IDs, employment cards, credit cards, and so on. We mean any document of any size that enables you—or your organization—to prove something about you that enables the establishment of trust. For example, this could include:
+Note that by “credentials” we don’t just mean the pieces of paper or plastic that you carry around in your wallet to prove your identity, for example, driving licenses, government IDs, employment cards, credit cards, and so on. We mean any document of any size that enables you — or your organization — to prove something about you that enables the establishment of trust. For example, this could include:
 
 * A birth certificate issued by a hospital or vital statistics agency that proves when
 and where you were born and who were your parents.

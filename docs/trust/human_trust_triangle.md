@@ -4,7 +4,7 @@ The reason credentials have evolved as a universal mechanism for establishing re
 
 No matter what type of credential, the triangle involves the same three primary roles:
 
-1. **Issuers** are the source of credentials—every credential has an issuer. Most are organizations such as government agencies (passports), financial institutions (credit cards), universities (degrees), corporations (employment IDs), churches
+1. **Issuers** are the source of credentials — every credential has an issuer. Most are organizations such as government agencies (passports), financial institutions (credit cards), universities (degrees), corporations (employment IDs), churches
 (awards), etc. However individuals can also be issuers.
 2. **Holders** request credentials from issuers, hold them in their wallets or filing cabinets, and present them when requested by verifiers (and approved by the holder). Although we most commonly think of individuals as holders, holders can
 also be organizations, or even things (such as the registration for a car).
