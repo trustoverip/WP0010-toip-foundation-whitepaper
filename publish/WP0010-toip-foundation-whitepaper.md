@@ -193,3 +193,20 @@ informs readers concisely about a complex issue and presents the issuing
 body’s philosophy on the matter. It is meant to help readers understand
 an issue, solve a problem, or make a decision.
 
+### Frequently asked question? { #faq-frequently-asked-question }
+
+Answer
+
+### Frequently asked question? { #faq-frequently-asked-question-1 }
+
+Answer
+
+### ToIP Foundation { #contact_us-toip-foundation }
+
+#### Contact Steering Committee { #contact_us-contact-steering-committee }
+
+Email xxxxxxxxxxxxx
+
+#### Contact Authors { #contact_us-contact-authors }
+
+Email xxxxxxxxxxx
