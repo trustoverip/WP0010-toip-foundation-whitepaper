@@ -125,38 +125,6 @@ primary roles:
     will look for specific features of a passport or driver’s license to
     see if it is valid, then check to ensure it is not expired.
 
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
-Some text
-
 The ToIP Foundation aims to produce several publicly accessible
 artifacts. Each working group within the Foundation will determine the
 type and quantity of work products to be produced.
@@ -225,10 +193,6 @@ informs readers concisely about a complex issue and presents the issuing
 body’s philosophy on the matter. It is meant to help readers understand
 an issue, solve a problem, or make a decision.
 
-Some text
-
-Some text
-
 ### Frequently asked question? { #faq-frequently-asked-question }
 
 Answer
@@ -246,4 +210,3 @@ Email xxxxxxxxxxxxx
 #### Contact Authors { #contact_us-contact-authors }
 
 Email xxxxxxxxxxx
-
